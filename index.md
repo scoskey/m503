@@ -10,7 +10,7 @@ Office hours: TBA
 
 ## Course description
 
-Number theory is the study of patterns in the set of natural numbers and its arithmetic operations. Like geometry, it is one of the most classical fields in mathematics. In number theory there are many questions which simultaneously have very simple statements and extremely complicated solutions (or no known answer at all). In this course we will aim to explore a variety of different areas of inquiry and problem-solving methods in number theory.
+Linear algebra evolved from the study of linear equations. It now encompasses the study of any objects that may be added and rescaled (vector spaces). The subject lies at the heart of both pure and applied math. In this course we will build upon the matrix theory you have seen in the past to explore the theoretical foundations of the subject.
 
 ### Anticipated learning outcomes
 

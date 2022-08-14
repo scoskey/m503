@@ -20,11 +20,9 @@ Linear algebra evolved from the study of linear equations. It now encompasses th
 
 ### Rough plan
 
-* Weeks 1-3: Vector spaces
-* Weeks 4-6: Linear mappings
-* Weeks 7-9: Eigenvalues/vectors and orthogonality
-* Weeks 10-12: Spectral theory
-* Weeks 13-15: Operators, trace, determinant
+* Weeks 1-5: Vector spaces and linear mappings (chapters 1, 2, 3)
+* Weeks 6-10: Eigenvalues/vectors and orthogonality (chapters 3, 5, 6)
+* Weeks 11-15: Spectral theory and determinants (chapters 7, 8, 10)
 
 ### Course format
 
@@ -32,17 +30,17 @@ The course will be delivered through synchronous remote class sessions. Each ses
 
 ## Grading
 
-### Attendance and participation 20\%
+### Attendance and participation 20%
 
-Please attend remote class sessions, be prepared to ask questions and discuss the material, and collaborate with your peers on group activities. Each session will feature one or more "U-Proov" problem which must be completed collaboratively and submitted with the next homework assignment. You may miss a few sessions without penalty, but additional absences must be documented.
+Please attend remote class sessions, be prepared to ask questions and discuss the material, and collaborate with your peers on group activities. You may miss a few class sessions without penalty, but additional absences must be documented. Each session will feature one or more "U-Proov" problem which must be completed collaboratively and submitted as a group.
 
-### Homework 80\%
+### Homework 50%
 
-Homework assignments will be given each week and collected the following week.
+Homework assignments will be given each week and collected the following week. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
-### What is cheating?
+### Exams 30%
 
-You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly write them in your own words.
+We will have three take-home quizzes to be completed individually.
 
 ## Disclaimer
 

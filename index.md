@@ -40,7 +40,7 @@ Homework assignments will be given each week and collected the following week. Y
 
 ### Exams 30%
 
-We will have three take-home quizzes to be completed individually.
+We will have three take-home quizzes to be completed individually. These will take place during the 5th week, 10th week, and finals week.
 
 ## Disclaimer
 

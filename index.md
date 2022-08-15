@@ -32,15 +32,15 @@ The course will be delivered through synchronous remote class sessions. Each ses
 
 ### Attendance and participation 20%
 
-Please attend remote class sessions, be prepared to ask questions and discuss the material, and collaborate with your peers on group activities. You may miss a few class sessions without penalty, but additional absences must be documented. Each session will feature one or more "U-Proov" problem which must be completed collaboratively and submitted as a group.
+Please attend remote class sessions, be prepared to ask questions and discuss the material, and collaborate with your peers on group activities. You may miss a few class sessions without penalty, but additional absences must be documented. Each session will feature one or more "U-Pruv" problems which must be completed collaboratively and submitted as a group.
 
 ### Homework 50%
 
-Homework assignments will be given each week and collected the following week. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Homework assignments will be given each week and collected the following week. Students enrolled in Math 503 may be asked to complete additional problems. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
-### Exams 30%
+### Quizzes 30%
 
-We will have three take-home quizzes to be completed individually. These will take place during the 5th week, 10th week, and finals week.
+We will have three take-home quizzes to be completed individually. Students enrolled in Math 503 may be asked to complete additional problems. The quizzes will take place during the 5th week, 10th week, and finals week.
 
 ## Disclaimer
 

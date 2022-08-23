@@ -26,7 +26,7 @@ header-includes: |
 6. TBA
 
 
-## Week 1 U-Pruv (Due Tuesday, August 31)
+## Week 1 U-Pruv (Due Tuesday, August 30)
 
 1. Let $S$ be the set of sequences of real numbers $(z\_n)$ such that $\lim z\_n=0$. Show that $S$ is a subspace of $R^{\mathbb N}$.
 2. TBA

@@ -27,7 +27,7 @@ header-includes: |
 ## Week 1 U-Pruv (Due Tuesday, August 30)
 
 1. Let $S$ be the set of sequences of real numbers $(z\_n)$ such that $\lim z\_n=0$. Show that $S$ is a subspace of $R^{\mathbb N}$.
-2. Let $U=\set{(x,x,y,y):x,y\in F^4}$, $V=\set{(x,x,x,y):x,y\in F^4}$, and $W=\set{(x,x,y,z):x,y,z\in F^4}$. Show that $W=U+V$. Decide whether $W=U\oplus V$ and demonstrate you are correct.
+2. Let $U=\set{(x,x,y,y)\mid x,y\in F}$, $V=\set{(x,x,x,y)\mid x,y\in F}$, and $W=\set{(x,x,y,z)\mid x,y,z\in F}$. Show that $W=U+V$. Decide whether $W=U\oplus V$ and demonstrate you are correct.
 
 
 <script type='text/x-mathjax-config'>

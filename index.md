@@ -6,7 +6,7 @@ Meeting times: T,Th from 10:30&ndash;11:45am
 Textbook: Axler, *Linear algebra done right*, 3rd  
 Homework: [View homework problems](homework)  
 Contact: scoskey@boisestate.edu  
-Office hours: TBA
+Office hours: TBA, and by appointment
 
 ## Course description
 

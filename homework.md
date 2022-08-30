@@ -15,11 +15,17 @@ header-includes: |
 
 ### U2 (Due Wednesday, September 6)
 
-1. TBA
+1. For each of the following vector spaces $V$, find a list of vectors that spans $V$. Try to include as few vectors in your list as you can. In each case explain why you are correct.  
+  * $V=F^3$
+  * $V=$ the plane in $F^3$ with equation $x+y+z=0$.
+  * $V=$ the set of polynomials of degree $\leq3$
+  * $V=$ the set of polynomials of degree $\leq3$ such that $p'(1)=0$.
+2. TBA
 
 ### H2 (Due Tuesday, September 7)
 
-1. TBA
+1. Linear independence means no redundancy: Let $v\_1,\ldots,v\_m$ be a list of vectors in a vector space $V$. Prove that $v\_1,\ldots,v\_m$ is linearly independent if and only if none of the vectors $v\_j$ can be written as a linear combination of the other vectors in the list.
+2. TBA
 
 ## Week 1
 

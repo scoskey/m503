@@ -25,7 +25,10 @@ header-includes: |
 ### H2 (Due Wednesday, September 7)
 
 1. Linear independence means no redundancy: Let $v\_1,\ldots,v\_m$ be a list of vectors in a vector space $V$. Prove that $v\_1,\ldots,v\_m$ is linearly independent if and only if none of the vectors $v\_j$ can be written as a linear combination of the other vectors in the list.
-2. TBA
+2. (Treil 2.5) Suppose $v\_1,\ldots,v\_k$ is linearly independent, and let $v\_{k+1}$ be any vector not in the span of $v\_1,\ldots,v\_k$. Show that $v\_1,\ldots,v\_{k+1}$ is linearly independent.
+3. (Treil 2.6) Is it possible for vectors $u,v,w$ to be linearly dependent while the vectors $u+v,v+w,w+u$ are linearly independent? Give an example or show none exists.
+4. TBA
+5. TBA
 
 ## Week 1
 

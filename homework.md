@@ -27,8 +27,11 @@ header-includes: |
 1. Linear independence means no redundancy: Let $v\_1,\ldots,v\_m$ be a list of vectors in a vector space $V$. Prove that $v\_1,\ldots,v\_m$ is linearly independent if and only if none of the vectors $v\_j$ can be written as a linear combination of the other vectors in the list.
 2. (Treil 2.5) Suppose $v\_1,\ldots,v\_k$ is linearly independent, and let $v\_{k+1}$ be any vector not in the span of $v\_1,\ldots,v\_k$. Show that $v\_1,\ldots,v\_{k+1}$ is linearly independent.
 3. (Treil 2.6) Is it possible for vectors $u,v,w$ to be linearly dependent while the vectors $u+v,v+w,w+u$ are linearly independent? Give an example or show none exists.
-4. TBA
-5. TBA
+4. (Similar to 2.B.A) Let $U$ be the subspace of $F^5$ defined by $U=\set{(x\_1,x\_2,x\_3,x\_4,x\_5):x\_1=2x\_2,$x\_3=5x\_4}$.  
+  (a) Find a basis of $U$.  
+  (b) Extend the basis from (a) to a basis of $F^5$.  
+  (c) Use (b) to describe a subspace $W$ such that $U\oplus W=F^5$.
+5. (Similar to 2.B.6) Suppose $v\_1,v\_2,v\_3,v\_4$ is a basis of $V$. Prove that $v\_1+v\_2+v\_3+v\_4,v\_2+v\_3+v\+4,v\_3+v\_4,v\_4$ is a basis of $V$. [Hint: show that each $v\_i$ can be written as a combination of the new basis vectors.]
 
 ## Week 1
 

@@ -20,7 +20,7 @@ header-includes: |
   * $V=$ the plane in $F^3$ with equation $x+y+z=0$.
   * $V=$ the set of polynomials of degree $\leq3$
   * $V=$ the set of polynomials of degree $\leq3$ such that $p'(1)=0$.
-2. TBA
+2. Suppose that $u\_1,\ldots,u\_m,w\_1,\ldots,w\_n$ is linearly independent, let $U$ be the span of $u\_1,\ldots,u\_m$ and $W$ the span of $w\_1,\ldots,w\_n$. Show that the sum $U+W$ is direct. Show that an analogous statement is true if a linearly independent list is divided into three parts.
 
 ### H2 (Due Wednesday, September 7)
 

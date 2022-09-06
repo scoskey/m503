@@ -11,6 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 3
+
+### U3 (Due Tuesday, September 13)
+
+1. Suppose that $V=U\_1+U\_2$. Show that $V=U\_1\oplus U\_2$ if and only if $\dim(V)=\dim(U\_1)+\dim(U\_2)$.
+2. TBA
+
+### H3 (Due Wednesday, Septemmber 14)
+
+1. TBA
+
 ## Week 2
 
 ### U2 (Due Tuesday, September 6)

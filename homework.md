@@ -20,7 +20,9 @@ header-includes: |
 
 ### H3 (Due Wednesday, Septemmber 14)
 
-1. TBA
+1. Suppose that $V=U\_1+U\_2+U\_3$. Show that $V=U\_1\oplus U\_2\oplus U\_3$ if and only if $\dim(V)=\dim(U\_1)+\dim(U\_2)+\dim(U\_3)$.
+2. Consider the space $V$ of polynomials of degree at most $4$. Let $v\_0,\ldots,v\_4$ be a list of polynomials with the property that for all $i$, the degree of $v\_i$ is equal to $i$. Show that $v\_0,\ldots,v\_4$ is a basis of $V$.
+3. TBA
 
 ## Week 2
 

@@ -16,7 +16,7 @@ header-includes: |
 ### U3 (Due Tuesday, September 13)
 
 1. Suppose that $V=U\_1+U\_2$. Show that $V=U\_1\oplus U\_2$ if and only if $\dim(V)=\dim(U\_1)+\dim(U\_2)$.
-2. TBA
+2. Show that if $S,T$ are linear transformations then $ST$ is a linear transformation. Show that $S(T\_1+T\_2)=ST\_1+ST\_2$. (Assume all the compositions make sense.)
 
 ### H3 (Due Wednesday, Septemmber 14)
 

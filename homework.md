@@ -22,7 +22,7 @@ header-includes: |
 
 1. Suppose that $V=U\_1+U\_2+U\_3$. Show that $V=U\_1\oplus U\_2\oplus U\_3$ if and only if $\dim(V)=\dim(U\_1)+\dim(U\_2)+\dim(U\_3)$.
 2. Consider the space $V$ of polynomials of degree at most $4$. Let $v\_0,\ldots,v\_4$ be a list of polynomials with the property that for all $i$, the degree of $v\_i$ is equal to $i$. Show that $v\_0,\ldots,v\_4$ is a basis of $V$.
-3. (Similar to 3.A.4) Let $T\in L(V,W)$. Show that if $Tv\_1,\ldots,Tv\_m$ is a linearly independent list in $W$, then $v\_1,ldots,v\_m$ is a linearly independent list in $V$. Decide whether the converse true or false, and explain why.
+3. (Similar to 3.A.4) Let $T\in L(V,W)$. Show that if $Tv\_1,\ldots,Tv\_m$ is a linearly independent list in $W$, then $v\_1,\ldots,v\_m$ is a linearly independent list in $V$. Decide whether the converse true or false, and explain why.
 4. Let $V$ be a two-dimensional vector space with basis $v\_1,v\_2$. Find the dimension and a basis for $L(V,V)$.
 
 ## Week 2

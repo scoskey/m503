@@ -11,6 +11,16 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 4
+
+### U4 (Due Tuesday, September 20)
+
+1. TBA
+
+### H4 (Due Wednesday, September 21)
+
+1. TBA
+
 ## Week 3
 
 ### U3 (Due Tuesday, September 13)

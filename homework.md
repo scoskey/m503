@@ -15,7 +15,8 @@ header-includes: |
 
 ### U4 (Due Tuesday, September 20)
 
-1. TBA
+1. Suppose that $Tv=w$. Show that $T^{-1}(w)=v+\mathrm{null}(T)$. In other words, show that the set of vectors $u$ such that $Tu=w$ is equal to the set of vectors of the form $v+x$ where $x\in\mathrm{null}(T)$.
+2. TBA
 
 ### H4 (Due Wednesday, September 21)
 

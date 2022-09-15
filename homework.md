@@ -20,7 +20,9 @@ header-includes: |
 
 ### H4 (Due Wednesday, September 21)
 
-1. TBA
+1. Find the null space and range of the linear transformation $T(x,y)=(x+iy,ix-y)$.
+2. For $T\in L(V,W)$, the symbol $\mathrm{rank}(T)$ denotes the dimension of the range of $T$. Prove that $\mathrm{rank}(T)\leq\min(\mathrm{dim}(V),\mathrm{dim}(W))$.
+3. TBA
 
 ## Week 3
 

@@ -16,17 +16,17 @@ header-includes: |
 ### U4 (Due Tuesday, September 20)
 
 1. Suppose that $Tv=w$. Show that $T^{-1}(w)=v+\mathrm{null}(T)$. In other words, show that the set of vectors $u$ such that $Tu=w$ is equal to the set of vectors of the form $v+x$ where $x\in\mathrm{null}(T)$.
-2. Let $V$ be a vector space and let $v\_1,\ldots,v\_n$ and $w\_1,\ldots,w\_n$ be two bases of $V$. Thus every vector $u$ has a $v$-representation $a\_1v\_1+\cdots+a\_nv\_n$ and a $w$-representation $b\_1w\_1+\cdots+b\_nw\_n$. Show that there exists a matrix $A$ which carries $v$-representations to $w$-representations, that is:  
-  $A\begin{bmatrix}a\_1\\\\\vdots\\\\a\_n\end{bmatrix}=\begin{bmatrix}b\_1\\\\\vdots\\\\b\_n\end{bmatrix}$  
+2. Let $V$ be a vector space and let $v\_1,\ldots,v\_n$ and $w\_1,\ldots,w\_n$ be two bases of $V$. Thus every vector $u$ has a $v$-representation $a\_1v\_1+\cdots+a\_nv\_n$ and a $w$-representation $b\_1w\_1+\cdots+b\_nw\_n$. Show that there exists a matrix $A$ which carries $w$-representations to $v$-representations, that is:  
+  $A\begin{bmatrix}b\_1\\\\\vdots\\\\b\_n\end{bmatrix}=\begin{bmatrix}a\_1\\\\\vdots\\\\a\_n\end{bmatrix}$  
   [Hint: Consider the linear transformation $S$ such that $S(v\_i)=w\_i$ for all $i$, and let $A$ be the matrix of $S$ in the basis $v\_1,\ldots,v\_n$.]
 
 ### H4 (Due Wednesday, September 21)
 
 1. Find the null space and range of the linear transformation $T(x,y)=(x+iy,ix-y)$.
 2. For $T\in L(V,W)$, the symbol $\mathrm{rank}(T)$ denotes the dimension of the range of $T$. Prove that $\mathrm{rank}(T)\leq\min(\mathrm{dim}(V),\mathrm{dim}(W))$.
-3. Suppose that $V$ is a vector space and $T\in L(V,V)$. Let $M$ and $N$ be matrices for $T$ with respect to two different bases. Show that there exists a matrix $A$ such that $MA=AN$. [Hint: Use the same type of matrix described in the U-Pruv.]
+3. Suppose that $T\in L(F^9,F^9)$ with the property that the range of $T$ is contained in the null space of $T$. Show that the dimension of the range of $T$ is at most $4$. Can the range of $T$ be equal to the null space of $T$?
 4. Let $V$ be the vector space of polynomials of degree at most $4$. Use the "standard" basis of $V$. Find a matrix of the derivative map. Find a matrix of the differential operator $Tp(x)=-4p''(x)+3p'(x)+2f(x)$.
-5. Suppose that $T\in L(F^9,F^9)$ with the property that the range of $T$ is contained in the null space of $T$. Show that the dimension of the range of $T$ is at most $4$. Can the range of $T$ be equal to the null space of $T$?
+5. Suppose that $V$ is a vector space and $T\in L(V,V)$. Let $M$ and $N$ be matrices for $T$ with respect to two different bases. Show that there exists a matrix $A$ such that $MA=AN$. [Hint: Use the same type of matrix described in the U-Pruv.]
 
 ## Week 3
 

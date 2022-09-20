@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 5
+
+No homework this week, work on the take-home quiz instead!
+
 ## Week 4
 
 ### U4 (Due Tuesday, September 20)

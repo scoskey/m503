@@ -27,7 +27,7 @@ header-includes: |
 
 The following problems are to be completed by Math 503 students only.
 
-- 7. Suppose that $V$ is a vector space and $v_1,\ldots,v_n$ is a basis of $V$. Let $u$ be any vector and let $U$ be the span of the vectors $v_1-u,\dlots,v_n-u$. Show that the dimension of $U$ is at least $n-1$.
+- 7. Suppose that $V$ is a vector space and $v_1,\ldots,v_n$ is a basis of $V$. Let $u$ be any vector and let $U$ be the span of the vectors $v_1-u,\ldots,v_n-u$. Show that the dimension of $U$ is at least $n-1$.
 - 8. Suppose that $T\in L(U,V)$ and $S\in L(V,W)$. Show that $\mathrm{rank}(ST)\leq\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$. Given an example of linear transformations $S,T$ such that $\mathrm{rank}(ST)\lt\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$.
 
 ## Week 4

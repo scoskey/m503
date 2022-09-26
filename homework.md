@@ -23,7 +23,7 @@ header-includes: |
 - (3) Let $V=F^5$ and let $U$ be the subspace $U=\set{(x_1,x_2,x_3,x_4,x_5):x_1+x_2+x_4=0,x_2+x_3+x_5=0}$. Find a basis of $U$. Then extend it to a basis of $V$.
 - (4) Let $V=F^3$. Let $v_1=(a,0,0),v_2=(b,c,0),v_3=(d,e,f)$ where $a,b,c,d,e,f$ are unknown constants. For what values of the constants $a,b,c,d,e,f$ is it true that $v_1,v_2,v_3$ is linearly independent? Explain your answer.
 - (5) Let $V=F^2$ and let $T\in L(V,V)$ be a linear map with the special property that the null space of $T$ is exactly equal to the range of $T$. Show that the null space of $T$ is one-dimensional. Show that $T^2=0$ (in other words, $T\circ T$ is the zero map). Give an example of a linear map $T$ with this special property (you may answer with a $2\times2$ matrix).
-- (6) Let $T\in L(V,W)$. Let $v_1,\ldots,v_n$ be a basis of $V$. Show that there exists a basis $w_1,\ldots,w_m$ of $W$ such that the matrix of $T$ with respect to the $v$'s and $w$'s consists entirely of $1$s and $0$s.
+- (6) Let $T\in L(V,W)$. Let $v_1,\ldots,v_n$ be a basis of $V$. Show that there exists a basis $w_1,\ldots,w_m$ of $W$ such that the matrix of $T$ with respect to the $v$'s and $w$'s consists entirely of $1$s and $0$s. [**Correction** Please show this statement is false OR change it to make it true.]
 
 The following problems are to be completed by Math 503 students only.
 

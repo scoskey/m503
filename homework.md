@@ -11,9 +11,20 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 6
+
+### U6 (Due Tuesday, October 4)
+
+1. Let $A$ be the $2\times 2$ matrix $\begin{bmatrix}a&b\\\\c&d\end{bmatrix}$, so that $A$ may be identified with an element of $L(F^2,F^2)$ in the standard basis. Show that $A$ is an automorphism of $F^2$ if and only if $ad-bc=0$.
+2. TBA
+
+### H6 (Due Wednesday, October 5)
+
+1. TBA
+
 ## Week 5
 
-### Take-home Quiz
+### Take-home Quiz 1
 
 **Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may use only methods *we learned in our class*. If you solve a problem using another method that is formally correct but which we have not covered, you may not receive full credit for it. (c) You may refer to your notes and class materials freely. If you use any outside resources, you must provide citations.
 

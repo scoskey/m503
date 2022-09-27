@@ -15,7 +15,7 @@ header-includes: |
 
 ### U6 (Due Tuesday, October 4)
 
-1. Let $A$ be the $2\times 2$ matrix $\begin{bmatrix}a&b\\\\c&d\end{bmatrix}$, so that $A$ may be identified with an element of $L(F^2,F^2)$ in the standard basis. Show that $A$ is an automorphism of $F^2$ if and only if $ad-bc=0$.
+1. Let $A$ be the $2\times 2$ matrix $\begin{bmatrix}a&b\\\\c&d\end{bmatrix}$, so that $A$ may be identified with an element of $L(F^2,F^2)$ in the standard basis. Show that $A$ is an automorphism of $F^2$ if and only if $ad-bc\neq0$.
 2. TBA
 
 ### H6 (Due Wednesday, October 5)

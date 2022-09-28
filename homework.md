@@ -20,7 +20,11 @@ header-includes: |
 
 ### H6 (Due Wednesday, October 5)
 
-1. TBA
+1. Find the inverse of the following linear maps in $L(F^3,F^3)$: $S(x,y,z)=(y,z,x)$, $T(x,y,z)=(x+z,y,z)$.
+2. Give an example of bijective (invertible) maps $S,T$ such that $S+T$ is not bijective. Give an example of non-bijective maps $S,T$ such that $S+T$ is bijective. (You may work with $2\times2$ matrices.)
+3. Give an example of non-bijective maps $S,T$ such that $ST$ is bijective. (You may work with matrices. By the next exercise you shouldn't try square matrices.)
+4. Show that if $S,T\in L(V,V)$ and $ST$ is bijective (invertible), then both $S$ and $T$ are bijective (invertible).
+5. Let $V$ be a vector space, $v\_1,\ldots,v\_n$ a basis of $V$, and $T\in L(V,V)$. Prove that $T$ is bijective (invertible) if and only if $Tv\_1,\ldots,Tv\_n$ is a basis of $V$.
 
 ## Week 5
 

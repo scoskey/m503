@@ -15,7 +15,7 @@ header-includes: |
 
 ### U7 (Due Tuesday, October 4)
 
-1. Define $T\in L(F^2)$ by $T(z,w)=(-3w,z)$. Find the eigenvalues of $T$, first assuming $F=R$ and then assuming $F=C$.
+1. Define $T\in L(F^2)$ by $T(w,z)=(w-3z,w)$. Find the eigenvalues of $T$, first assuming $F=R$ and then assuming $F=C$.
 2. TBA
 
 ### H7 (Due Wednesday, October 5)

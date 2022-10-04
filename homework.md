@@ -15,12 +15,14 @@ header-includes: |
 
 ### U7 (Due Tuesday, October 4)
 
-1. TBA
+1. Define $T\in L(F^2)$ by $T(z,w)=(-3w,z)$. Find the eigenvalues of $T$, first assuming $F=R$ and then assuming $F=C$.
 2. TBA
 
 ### H7 (Due Wednesday, October 5)
 
-1. TBA
+1. Please read Chapter 4. For each condition, give an example of a cubic polynomial with real coefficients satisfying the condition, or state is impossible. In either case, explain your answer. (a) $p(x)$ has $3$ real roots; (b) $p(x)$ has $2$ real roots and one non-real root; (c) $p(x)$ has $1$ real root and $2$ complex roots; (d) $p(x)$ has $3$ non-real roots.
+2. Let $p(x)=3x^3-5x^2+10x-3$ and $s(x)=3x+1$. Perform polynomial long division to express $p=sq+r$ where $\mathrm{deg}(r)<\mathrm{deg}(s)$.
+3. TBA
 
 ## Week 6
 

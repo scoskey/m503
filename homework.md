@@ -11,6 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 7
+
+### U7 (Due Tuesday, October 4)
+
+1. TBA
+2. TBA
+
+### H7 (Due Wednesday, October 5)
+
+1. TBA
+
 ## Week 6
 
 ### U6 (Due Tuesday, October 4)

@@ -22,7 +22,9 @@ header-includes: |
 
 1. Please read Chapter 4. For each condition, give an example of a cubic polynomial with real coefficients satisfying the condition, or state is impossible. In either case, explain your answer. (a) $p(x)$ has $3$ real roots; (b) $p(x)$ has $2$ real roots and one non-real root; (c) $p(x)$ has $1$ real root and $2$ complex roots; (d) $p(x)$ has $3$ non-real roots.
 2. Let $p(x)=3x^3-5x^2+10x-3$ and $s(x)=3x+1$. Perform polynomial long division to express $p=sq+r$ where $\mathrm{deg}(r)<\mathrm{deg}(s)$.
-3. TBA
+3. For each eigenvalue found in U7#1, find a corresponding eigenvector.
+4. Suppose $T^k$ is equal to the zero map for some $k$. Prove that $0$ is an eigenvalue of $T$, and that it is the only eigenvalue of $T$.
+5. Let $V$ be a finite dimensional vector space, $V'$ its dual, and $V''$ its second dual. Let $T\colon V\to V''$ be the map defined by $T(v)(\phi)=\phi(v)$. (a) Spend some time understanding this formula and then explain why $T$ is a map from $V$ to $V''$. (b) Prove that $T$ is injective (you may assume $T$ is linear). (c) Conclude $T$ is an isomorphism between $V$ and $V''$.
 
 ## Week 6
 

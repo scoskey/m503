@@ -16,7 +16,7 @@ header-includes: |
 ### U7 (Due Tuesday, October 4)
 
 1. Define $T\in L(F^2)$ by $T(w,z)=(w-3z,w)$. Find the eigenvalues of $T$, first assuming $F=R$ and then assuming $F=C$.
-2. TBA
+2. Let $T\in L(V)$, and let $v\_1,\ldots,v\_n$ be a basis of $V$ with the additional property that every $v\_i$ is an eigenvector of $T$. Describe the matrix of $T$ in the basis $v\_1,\ldots,v\_n$.
 
 ### H7 (Due Wednesday, October 5)
 

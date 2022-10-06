@@ -13,12 +13,12 @@ header-includes: |
 
 ## Week 7
 
-### U7 (Due Tuesday, October 4)
+### U7 (Due Tuesday, October 11)
 
 1. Define $T\in L(F^2)$ by $T(w,z)=(w-3z,w)$. Find the eigenvalues of $T$, first assuming $F=R$ and then assuming $F=C$.
 2. Let $T\in L(V)$, and let $v\_1,\ldots,v\_n$ be a basis of $V$ with the additional property that every $v\_i$ is an eigenvector of $T$. Describe the matrix of $T$ in the basis $v\_1,\ldots,v\_n$.
 
-### H7 (Due Wednesday, October 5)
+### H7 (Due Wednesday, October 12)
 
 1. Please read Chapter 4. For each condition, give an example of a cubic polynomial with real coefficients satisfying the condition, or state is impossible. In either case, explain your answer. (a) $p(x)$ has $3$ real roots; (b) $p(x)$ has $2$ real roots and one non-real root; (c) $p(x)$ has $1$ real root and $2$ complex roots; (d) $p(x)$ has $3$ non-real roots.
 2. Let $p(x)=3x^3-5x^2+10x-3$ and $s(x)=3x+1$. Perform polynomial long division to express $p=sq+r$ where $\mathrm{deg}(r)<\mathrm{deg}(s)$.

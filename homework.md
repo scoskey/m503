@@ -11,6 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 8
+
+### U8 (Due Tuesday, October 18)
+
+1. Let $S(x,y)=(x+2y,3y)$. Find a basis in which $S$ is diagonal and verify this is the case. Let $T=(x+2y,y)$. Show that there does not exist a basis in which $T$ is diagonal.
+2. TBA
+
+### H8 (Due Wednesday, October 19)
+
+1. TBA
+
 ## Week 7
 
 ### U7 (Due Tuesday, October 11)
@@ -47,18 +58,18 @@ header-includes: |
 
 **Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may use only methods *we learned in our class*. If you solve a problem using another method that is formally correct but which we have not covered, you may not receive full credit for it. (c) You may refer to your notes and class materials freely. If you use any outside resources, you must provide citations.
 
-- (0) Please copy the following, and sign your name: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
-- (1) Consider the vectors $u=(1+i,-2+i)$ and $v=(5-i,-1+8i)$ in $C^2$. Decide whether $v$ is a scalar multiple of $u$. Explain your answer.
-- (2) Let $V$ be the vector space $F^N$ (aka $F^\infty$, see 1.22) consisting of all sequences $(z_n)$. Let $W$ be the subset of $V$ consisting of all sequences satisfying $z_{n+2}=z_{n+1}+z_n$ for all $n$. Show that $W$ is a subspace of $V$.
-- (3) Let $V=F^5$ and let $U$ be the subspace $U=\set{(x_1,x_2,x_3,x_4,x_5):x_1+x_2+x_4=0,x_2+x_3+x_5=0}$. Find a basis of $U$. Then extend it to a basis of $V$.
-- (4) Let $V=F^3$. Let $v_1=(a,0,0),v_2=(b,c,0),v_3=(d,e,f)$ where $a,b,c,d,e,f$ are unknown constants. For what values of the constants $a,b,c,d,e,f$ is it true that $v_1,v_2,v_3$ is linearly independent? Explain your answer.
-- (5) Let $V=F^2$ and let $T\in L(V,V)$ be a linear map with the special property that the null space of $T$ is exactly equal to the range of $T$. Show that the null space of $T$ is one-dimensional. Show that $T^2=0$ (in other words, $T\circ T$ is the zero map). Give an example of a linear map $T$ with this special property (you may answer with a $2\times2$ matrix).
-- (6) Let $T\in L(V,W)$. Let $v_1,\ldots,v_n$ be a basis of $V$. Show that there exists a basis $w_1,\ldots,w_m$ of $W$ such that the matrix of $T$ with respect to the $v$'s and $w$'s consists entirely of $1$s and $0$s. [**Correction** Please show this statement is false OR change it to make it true.]
+1. Please copy the following, and sign your name: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
+2. Consider the vectors $u=(1+i,-2+i)$ and $v=(5-i,-1+8i)$ in $C^2$. Decide whether $v$ is a scalar multiple of $u$. Explain your answer.
+3. Let $V$ be the vector space $F^N$ (aka $F^\infty$, see 1.22) consisting of all sequences $(z_n)$. Let $W$ be the subset of $V$ consisting of all sequences satisfying $z_{n+2}=z_{n+1}+z_n$ for all $n$. Show that $W$ is a subspace of $V$.
+4. Let $V=F^5$ and let $U$ be the subspace $U=\set{(x_1,x_2,x_3,x_4,x_5):x_1+x_2+x_4=0,x_2+x_3+x_5=0}$. Find a basis of $U$. Then extend it to a basis of $V$.
+5. Let $V=F^3$. Let $v_1=(a,0,0),v_2=(b,c,0),v_3=(d,e,f)$ where $a,b,c,d,e,f$ are unknown constants. For what values of the constants $a,b,c,d,e,f$ is it true that $v_1,v_2,v_3$ is linearly independent? Explain your answer.
+6. Let $V=F^2$ and let $T\in L(V,V)$ be a linear map with the special property that the null space of $T$ is exactly equal to the range of $T$. Show that the null space of $T$ is one-dimensional. Show that $T^2=0$ (in other words, $T\circ T$ is the zero map). Give an example of a linear map $T$ with this special property (you may answer with a $2\times2$ matrix).
+7. Let $T\in L(V,W)$. Show that there exist bases $v_1,\ldots,v_n$ of $V$ and $w_1,\ldots,w_m$ of $W$ such that the matrix of $T$ with respect to the $v$'s and $w$'s consists entirely of $1$'s and $0$'s.
 
 The following problems are to be completed by Math 503 students only.
 
-- (7) Suppose that $V$ is a vector space and $v_1,\ldots,v_n$ is a basis of $V$. Let $u$ be any vector and let $U$ be the span of the vectors $v_1-u,\ldots,v_n-u$. Show that the dimension of $U$ is at least $n-1$.
-- (8) Suppose that $T\in L(U,V)$ and $S\in L(V,W)$. Show that $\mathrm{rank}(ST)\leq\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$. Give an example of linear transformations $S,T$ such that $\mathrm{rank}(ST)\lt\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$.
+8. Suppose that $V$ is a vector space and $v_1,\ldots,v_n$ is a basis of $V$. Let $u$ be any vector and let $U$ be the span of the vectors $v_1-u,\ldots,v_n-u$. Show that the dimension of $U$ is at least $n-1$.
+9. Suppose that $T\in L(U,V)$ and $S\in L(V,W)$. Show that $\mathrm{rank}(ST)\leq\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$. Give an example of linear transformations $S,T$ such that $\mathrm{rank}(ST)\lt\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$.
 
 ## Week 4
 

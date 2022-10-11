@@ -15,7 +15,7 @@ header-includes: |
 
 ### U8 (Due Tuesday, October 18)
 
-1. Let $S(x,y)=(x+2y,3y)$. Find a basis in which $S$ is diagonal and verify this is the case. Let $T=(x+2y,y)$. Show that there does not exist a basis in which $T$ is diagonal.
+1. Let $S(x,y)=(x+2y,3y)$. Find a basis in which $S$ is diagonal and verify this is the case. Let $T(x,y)=(x+2y,y)$. Show that there does not exist a basis in which $T$ is diagonal.
 2. TBA
 
 ### H8 (Due Wednesday, October 19)

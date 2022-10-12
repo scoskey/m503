@@ -20,7 +20,17 @@ header-includes: |
 
 ### H8 (Due Wednesday, October 19)
 
-1. TBA
+1. Show that if $\lambda$ is an eigenvalue of $T$ then $\lambda^k$ is an eigenvalue of $T^k$. If $T$ is invertible, show this statement applies to negative values of $k$ too.
+2. Consider the transformation $T$ with matrix $$\begin{bmatrix}4&3\\\\1&2\end{bmatrix}$$ in the standard basis. Find a basis in which $T$ is upper triangular but not diagonal. Find a basis in which $T$ is diagonal.
+3. Give an example of a $2\times2$ matrix $A$ with real entries satisfying each condition, or show it isn't possible:
+  * $A$ has no eigenvalues (real or complex)
+  * $A$ has one real eigenvalue and no other eigenvalues
+  * $A$ has one complex (non-real) eigenvalue and no other eigenvalues
+  * $A$ has two real eigenvalues
+  * $A$ has two complex (non-real) eigenvalues
+  * $A$ has one real eigenvalue and one complex (non-real) eigenvalue
+4. Suppose that $S$ and $T$ are operators, and there exists an invertible operator $U$ such that $SU=UT$. Prove that $S$ and $T$ have the same eigenvalues.
+5. Give an example of operators $S,T$ such that $S$ and $T$ have the same eigenvalues, and there is no invertible operator $U$ such that $SU=UT$.
 
 ## Week 7
 

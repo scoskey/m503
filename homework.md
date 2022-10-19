@@ -19,9 +19,16 @@ header-includes: |
    $T=\begin{bmatrix}1&2&3&4\\\\0&0&2&4\\\\0&0&0&5\\\\0&0&0&0\end{bmatrix}$
 2. TBA
 
-### H0 (Due Wednesday, October 26)
+### H9 (Due Wednesday, October 26)
 
-1. TBA
+1. Find all generalized eigenspaces of the matrix below. [Hint: $\lambda=1$]  
+  $A=\begin{bmatrix}1&-24&-96\\\\0&21&80\\\\0&-5&-19\end{bmatrix}$ 
+2. Find all generalized eigenspaces of the matrix below. [Hint: $\lambda=1,2$]  
+  $A=\begin{bmatrix}2&1&0&0\\\\-1&0&0&0\\\\2&2&3&1\\\\-1&-1&-1&1\end{bmatrix}$ 
+3. Suppose that $T$ is in $L(C^3,C^3)$ and $T$ has eigenvalues $\lambda=1,2,3$. Prove that there exists $(x,y,z)$ such that $T(x,y,z)=(1+4x,1+4y,1+4z)$.
+4. Show that the following matrices are conjugate by finding a change of basis matrix $U$ such that $B=UAU^{-1}$.  
+  $A=\begin{bmatrix}2&1\\\\&2&1\\\\&&2\end{bmatrix}$, $B=\begin{bmatrix}2\\\\1&2\\\\&1&2\end{bmatrix}$.
+5. This extends the previous problem 5. Give examples of three $3\times3$ matrices $A\_1,A\_2,A\_3$ such that: (1) For each $i$, $A\_i$ has just one eigenvalue and it's $0$, and; (2) If $i\neq j$ then $T\_i$ and $T\_j$ are not conjugate.
 
 ## Week 8
 

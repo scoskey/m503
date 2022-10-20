@@ -17,7 +17,7 @@ header-includes: |
 
 1. Read the statements and proofs of the results 8.2, 8.3, 8.4, and 8.5 in the text. Show they are true in the case of the matrix below by calculating the null space of $T$, $T^2$, $T^3$, and $T^4$, and the range of $T^4$.  
    $T=\begin{bmatrix}1&2&3&4\\\\0&0&2&4\\\\0&0&0&5\\\\0&0&0&0\end{bmatrix}$
-2. Suppose that $T$ is an operator on $V$, suppose $U,W$ are nonzero $T$-invariant subspaces, and finally suppose $V=U\oplus W$ are both $T$-invariant. Show that there exists a basis of $V$ such that the matrix of $T$ with respect to the basis has the block form:  
+2. Suppose that $T$ is an operator on $V$, suppose $U,W$ are nonzero $T$-invariant subspaces, and finally suppose $V=U\oplus W$. Show that there exists a basis of $V$ such that the matrix of $T$ with respect to the basis has the block form:  
   $A=\begin{bmatrix}A\_1\\\\&A_2\end{bmatrix}$
 
 ### H9 (Due Wednesday, October 26)

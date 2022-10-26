@@ -18,7 +18,7 @@ header-includes: |
 **Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
 
 1. Please copy the following, and sign your name: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
-2. Consider the linear map on the vector space of all polynomials over $F$ defined by $Tp(z)=(3x+5)p^\prime(x)$. Decide whether $T$ is injective, decide whether $T$ is surjective, and prove your answers.
+2. Consider the linear map on the vector space of all polynomials over $F$ defined by $Tp(z)=(3z+5)p^\prime(z)$. Decide whether $T$ is injective, decide whether $T$ is surjective, and prove your answers.
 3. For each of the following set of requirements, give an example of a linear map $T\in L(C^4,C^5)$ with the properties or else show it is not possible.  
   * The null space of $T$ is $2$-dimensional, the range of $T$ is $2$-dimensional, the null space of $T'$ is $2$-dimensional, and the range of $T'$ is $2$-dimensional
   * The null space of $T$ is $0$-dimensional, the range of $T$ is $4$-dimensional, the null space of $T'$ is $1$-dimensional, and the range of $T'$ is $4$-dimensional.

@@ -11,6 +11,35 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 10
+
+### Take-home Quiz 2
+
+**Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
+
+1. Please copy the following, and sign your name: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
+2. Consider the linear map on the vector space of all polynomials over $F$ defined by $Tp(z)=(3x+5)p^\prime(x)$. Decide whether $T$ is injective, decide whether $T$ is surjective, and prove your answers.
+3. For each of the following set of requirements, give an example of a linear map $T\in L(C^4,C^5)$ with the properties or else show it is not possible.  
+  * The null space of $T$ is $2$-dimensional, the range of $T$ is $2$-dimensional, the null space of $T'$ is $2$-dimensional, and the range of $T'$ is $2$-dimensional
+  * The null space of $T$ is $0$-dimensional, the range of $T$ is $4$-dimensional, the null space of $T'$ is $1$-dimensional, and the range of $T'$ is $4$-dimensional.
+4. Suppose that the eigenvalues of $T$ are $\lambda 1,2,3$. What are the eigenvalues of $T+4I$? Prove your answer.
+5. Consider the matrix $A$ below. Find a basis in which $A$ is diagonal and use this information to write $A=UDU^{-1}$ where $D$ is diagonal. Then use the fact that $A^n=UD^nU^{-1}$ to calculate $A^{100}$ explicitly.
+
+  > $A=\begin{bmatrix}5&3\\\\-6&-4\end{bmatrix}$.
+6. Give an example of an operator $T\in L(C^7,C^7)$ such that $G(3,T)=C^7$, $\mathrm{null}(T-3I)$ is $3$-dimensional, $\mathrm{null}(T-3I)^2$ is $5$-dimensional, and $\mathrm{null}(T-3I)^3$ is $6$-dimensional. Show how you got your example.
+7. Consider the matrix $A$ below. Find a Jordan basis and the Jordan form of $A$.
+
+  > $A=\begin{bmatrix}-1&1&0&0\\\\-4&3&0&0\\\\-5&2&0&1\\\\-6&3&-4&4\end{bmatrix}$.
+
+The following problems are to be completed by Math 503 students only.
+
+8. (#8) Let $V=P^3(F)$ be the space of polynomials of degree at most $3$. Let $V'$ be the dual space of $V$. Consider the basis $\phi\_0,\phi\_1,\phi\_2,\phi\_3$ of $V'$ defined as follows:
+
+  > $\phi\_0(p)=p(0),\quad\phi\_1(p)=p^\prime(0)+p(0),\quad\phi\_2(p)=p^{\prime\prime}(0)+p^{\prime}(0)+p(0),\quad\phi\_3(p)=p^{\prime\prime\prime}(0)+p^{\prime\prime}(0)+p^\prime(0)+p(0)$
+  
+  Find a basis $p\_0,p\_1,p\_2,p\_3$ of $V$ such that the dual basis of $p\_0,p\_1,p\_2,p\_3$ is exactly $\phi\_0,\phi\_1,\phi\_2,\phi\_3$.
+9. (#9) Suppose that $V$ is $n$-dimensional over $C$, and $T\in L(V,V)$. If $T^3=0$, prove that the rank of $T$ is at most $2n/3$. [Hint: Consider the Jordan form of $T$.]
+
 ## Week 9
 
 ### U9 (Due Tuesday, October 25)
@@ -86,7 +115,7 @@ header-includes: |
 
 ### Take-home Quiz 1
 
-**Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may use only methods *we learned in our class*. If you solve a problem using another method that is formally correct but which we have not covered, you may not receive full credit for it. (c) You may refer to your notes and class materials freely. If you use any outside resources, you must provide citations.
+**Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
 
 1. Please copy the following, and sign your name: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
 2. Consider the vectors $u=(1+i,-2+i)$ and $v=(5-i,-1+8i)$ in $C^2$. Decide whether $v$ is a scalar multiple of $u$. Explain your answer.

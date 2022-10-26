@@ -25,17 +25,17 @@ header-includes: |
 4. Suppose that the eigenvalues of $T$ are $\lambda 1,2,3$. What are the eigenvalues of $T+4I$? Prove your answer.
 5. Consider the matrix $A$ below. Find a basis in which $A$ is diagonal and use this information to write $A=UDU^{-1}$ where $D$ is diagonal. Then use the fact that $A^n=UD^nU^{-1}$ to calculate $A^{100}$ explicitly.
 
-  > $A=\begin{bmatrix}5&3\\\\-6&-4\end{bmatrix}$.
+  $A=\begin{bmatrix}5&3\\\\-6&-4\end{bmatrix}$.
 6. Give an example of an operator $T\in L(C^7,C^7)$ such that $G(3,T)=C^7$, $\mathrm{null}(T-3I)$ is $3$-dimensional, $\mathrm{null}(T-3I)^2$ is $5$-dimensional, and $\mathrm{null}(T-3I)^3$ is $6$-dimensional. Show how you got your example.
 7. Consider the matrix $A$ below. Find a Jordan basis and the Jordan form of $A$.
 
-  > $A=\begin{bmatrix}-1&1&0&0\\\\-4&3&0&0\\\\-5&2&0&1\\\\-6&3&-4&4\end{bmatrix}$.
+  $A=\begin{bmatrix}-1&1&0&0\\\\-4&3&0&0\\\\-5&2&0&1\\\\-6&3&-4&4\end{bmatrix}$.
 
 The following problems are to be completed by Math 503 students only.
 
 8. (#8) Let $V=P^3(F)$ be the space of polynomials of degree at most $3$. Let $V'$ be the dual space of $V$. Consider the basis $\phi\_0,\phi\_1,\phi\_2,\phi\_3$ of $V'$ defined as follows:
 
-  > $\phi\_0(p)=p(0),\quad\phi\_1(p)=p^\prime(0)+p(0),\quad\phi\_2(p)=p^{\prime\prime}(0)+p^{\prime}(0)+p(0),\quad\phi\_3(p)=p^{\prime\prime\prime}(0)+p^{\prime\prime}(0)+p^\prime(0)+p(0)$
+  $\phi\_0(p)=p(0),\quad\phi\_1(p)=p^\prime(0)+p(0),\quad\phi\_2(p)=p^{\prime\prime}(0)+p^{\prime}(0)+p(0),\quad\phi\_3(p)=p^{\prime\prime\prime}(0)+p^{\prime\prime}(0)+p^\prime(0)+p(0)$
   
   Find a basis $p\_0,p\_1,p\_2,p\_3$ of $V$ such that the dual basis of $p\_0,p\_1,p\_2,p\_3$ is exactly $\phi\_0,\phi\_1,\phi\_2,\phi\_3$.
 9. (#9) Suppose that $V$ is $n$-dimensional over $C$, and $T\in L(V,V)$. If $T^3=0$, prove that the rank of $T$ is at most $2n/3$. [Hint: Consider the Jordan form of $T$.]

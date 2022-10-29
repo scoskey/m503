@@ -26,7 +26,7 @@ header-includes: |
 5. Consider the matrix $A$ below. Find a basis in which $A$ is diagonal and use this information to write $A=UDU^{-1}$ where $D$ is diagonal. Then use the fact that $A^n=UD^nU^{-1}$ to calculate $A^{100}$ explicitly.  
   $A=\begin{bmatrix}5&3\\\\-6&-4\end{bmatrix}$.
 6. Give an example of an operator $T\in L(C^7,C^7)$ such that $G(3,T)=C^7$, $\mathrm{null}(T-3I)$ is $3$-dimensional, $\mathrm{null}(T-3I)^2$ is $5$-dimensional, and $\mathrm{null}(T-3I)^3$ is $6$-dimensional. Show how you got your example.
-7. Consider the matrix $A$ below. Find a Jordan basis and the Jordan form of $A$.  
+7. Consider the matrix $A$ below. The eigenvalues are $\lambda=1,2$. Find a Jordan basis and the Jordan form of $A$.  
   $A=\begin{bmatrix}-1&1&0&0\\\\-4&3&0&0\\\\-5&2&0&1\\\\-6&3&-4&4\end{bmatrix}$.
 
 The following problems are to be completed by Math 503 students only.

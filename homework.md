@@ -15,7 +15,7 @@ header-includes: |
 
 ### U11 (Due Tuesday, November 8)
 
-1. Prove the following identity, which shows that you can recover the inner product from the norm: $\langle u,v\rangle=\frac14(\|u+v\|^2-\|u-v\|^2+\|u+iv\}^2-\|u-iv\|^2)$. 
+1. Prove the following identity, which shows that you can recover the inner product from the norm: $\langle u,v\rangle=\frac14(\|u+v\|^2-\|u-v\|^2+\|u+iv\|^2-\|u-iv\|^2)$. 
 2. TBA
 
 ### H11 (Due Wednesday, November 9)

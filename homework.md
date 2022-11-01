@@ -11,6 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 11
+
+### U11 (Due Tuesday, November 8)
+
+1. Prove the Pythagorean and its converse without making any reference to inner products. This is the cornerstone of our discussion of orthogonality.
+2. TBA
+
+### H11 (Due Wednesday, November 9)
+
+1. TBA
+
 ## Week 10
 
 ### Take-home Quiz 2

@@ -15,7 +15,7 @@ header-includes: |
 
 ### U11 (Due Tuesday, November 8)
 
-1. Prove the following identity, which shows that you can recover the inner product from the norm: $\langle u,v\rangle=\frac14(\|u+v\|^2-\|u-v\|^2+\|u+iv\|^2-\|u-iv\|^2)$. 
+1. Prove the following identity, which shows that you can recover the inner product from the norm: $\langle u,v\rangle=\frac14(\|u+v\|^2-\|u-v\|^2+i\|u+iv\|^2-i\|u-iv\|^2)$. 
 2. Let $V$ be an inner product space with basis $v\_1,\ldots,v\_n$, and use the Gram-Schmidt process to produce an orthonormal basis $e\_1,\ldots,e\_n$. Let $A$ be the matrix with columns $v\_i$ and let $Q$ be the matrix with columns $e\_i$. Show that $A=QR$ where $R$ is upper triangular.
 
 ### H11 (Due Wednesday, November 9)

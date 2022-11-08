@@ -11,6 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 12
+
+### U12 (Due Tuesday, November 15)
+
+1. Look at the list of properties of the projection $P_U$ in 6.55. Let $Q=I-P_U$. Show that $Q$ satisfies $Q^2=Q$ (property g). Show that $\mathrm{range}(Q)=U^\perp$ and $\mathrm{null}(Q)=U$ (reverse of properties d,e). Finally show that in fact $Q=P_{U^\perp}$ (which also helps explain the above).
+2. TBA
+
+### H12 (Due Wednesday, November 16)
+
+1. TBA
+
 ## Week 11
 
 ### U11 (Due Tuesday, November 8)

@@ -23,8 +23,8 @@ header-includes: |
 1. Recall you used Gram-Schmidt on the basis $(1,1,2),(1,-1,0),(1,0,4)$. Now find the matrix of the projection map $P\_U$ onto the subspace spanned by $(1,1,2),(1,-1,0)$. [Hint: in the ONB you found, $P\_U$ is just $\begin{bmatrix}1\\\\&1\\\\&&0\end{bmatrix}$. Convert this back to the standard basis.]
 2. Let $P_U$ be the orthogonal projection onto $U$. Show that $\langle P\_Uv,w\rangle=\langle v,P\_Uw\rangle$ for all vectors $v,w$. [Hint: show that both sides are equal to $\langle P\_Uv,P\_Uw\rangle$.]
 3. Complete example 6.58 but without relying on decimal numbers. You may use integration software such as symbolab.
-4. Adjoints
-5. Adjoints
+4. TBA
+5. TBA
 
 ## Week 11
 

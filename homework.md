@@ -35,7 +35,7 @@ header-includes: |
 2. (Axler, 6A.8) Suppose that $\|u\|=\|v\|=1$ and $\langle u,v\rangle=1$. Prove that $u=v$.
 3. Use the Gram-Schmidt procedure to find an orthonormal list from the list $(1,3,4,5,7),(-6,6,8,0,8)$. Find the vector closest to $u=(1,0,0,0,0)$ which lies in the plane spanned by $(1,3,4,5,7),(-6,6,8,0,8)$.
 4. Use the Gram-Schmidt procedure to find an orthonormal basis from the following basis: $(1,1,2),(1,-1,0),(1,0,4)$.
-5. Let $V$ be the space of continuous real-valued functions on $[-1,1]$ with inner product $\langle f,g\rangle=\int\_{-1}^1fg$. Show that the union of the two lists is orthonormal: $\sin(n\pi x)$ for $n\geq1$, and $\cos(n\pi x)$ for $n\geq 0$.
+5. Let $V$ be the space of continuous real-valued functions on $[-1,1]$ with inner product $\langle f,g\rangle=\int\_{-1}^1fg$. Show that the union of the two lists is orthonormal: $\sin(n\pi x)$ for $n\geq1$, and $\cos(n\pi x)$ for $n\geq 1$.
 
 ## Week 10
 

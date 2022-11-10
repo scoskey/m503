@@ -16,15 +16,15 @@ header-includes: |
 ### U12 (Due Tuesday, November 15)
 
 1. Look at the list of properties of the projection $P_U$ in 6.55. Let $Q=I-P_U$. Show that $Q$ satisfies $Q^2=Q$ (property g). Show that $\mathrm{range}(Q)=U^\perp$ and $\mathrm{null}(Q)=U$ (reverse of properties d,e). Finally show that in fact $Q=P_{U^\perp}$ (which also helps explain the above).
-2. TBA
+2. - skipped -
 
 ### H12 (Due Wednesday, November 16)
 
 1. Recall you used Gram-Schmidt on the basis $(1,1,2),(1,-1,0),(1,0,4)$. Now find the matrix of the projection map $P\_U$ onto the subspace spanned by $(1,1,2),(1,-1,0)$. [Hint: in the ONB you found, $P\_U$ is just $\begin{bmatrix}1\\\\&1\\\\&&0\end{bmatrix}$. Convert this back to the standard basis.]
 2. Let $P_U$ be the orthogonal projection onto $U$. Show that $\langle P\_Uv,w\rangle=\langle v,P\_Uw\rangle$ for all vectors $v,w$. [Hint: show that both sides are equal to $\langle P\_Uv,P\_Uw\rangle$.]
 3. Complete example 6.58 but without relying on decimal numbers. You may use integration software such as symbolab.
-4. TBA
-5. TBA
+4. Show that the eigenvalues of $T^\ast$ are precisely the conjugates of the eigenvalues of $T$.
+5. (Axler, 7A.4) Show that $T$ is injecive if and only if $T^\ast$ is surjective.
 
 ## Week 11
 

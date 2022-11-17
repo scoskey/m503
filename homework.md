@@ -16,7 +16,7 @@ header-includes: |
 ### U13 (Due Tuesday, November 29)
 
 1. Show that the matrix is normal. Then find its eigenvalues and eigenvectors, and show the eigenvectors are orthogonal. $\begin{bmatrix}0&-1+i\\\\1+i&i\end{bmatrix}$
-2. TBA
+2. Show that if $P$ is any orthogonal projection matrix, then $P$ is positive, that is, $\langle Pv,v\rangle\geq0$ for all $v$.
 
 ### 13 (Due Wednesday, November 30)
 

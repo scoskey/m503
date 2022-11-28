@@ -22,7 +22,7 @@ header-includes: |
 
 1. (Treil 5.3) Show that the null space of $T^\ast T$ is equal to the null space of $T$. [Hint from the book: for one inclusion, use the fact that $\|v\|^2=\langle Tv,Tv\rangle=\langle T^\ast Tv,v\rangle$.]
 2. (See Treil 6.1) Observe the matrix is symmetric. Find its eigenvalues and eigenvectors, and show the eigenvectors are orthogonal. $\begin{bmatrix}&2&2\\\\2&&2\\\\2&2\end{bmatrix}$.
-3. TBA
+3. (Short homework this holiday week)
 
 ## Week 12
 

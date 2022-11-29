@@ -11,6 +11,20 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 14
+
+### U14 (Due Tuesday, December 6)
+
+1. For each property of the trace, explain why it is true or provide a counterexample. (a) $\mathrm{trace}(ST)=\mathrm{trace}(S)\mathrm{trace}(T)$; (b) $\mathrm{trace}(\alpha T)=\alpha\mathrm{trace}(T); (c) $\mathrm{trace}(RST)=\mathrm{trace}(RTS); (d) $\mathrm{trace}(RST)=\mathrm{trace}(TSR)
+2. TBA
+
+### H14 (Due Wednesday, December 7)
+
+1. Which values of $b$ make the matrix $\begin{bmatrix}1&b\\\\b&9\end{bmatrix}$ positive?
+2. Show that if $T$ is any operator then $T^\ast T$ is positive.
+3. Suppose $T$ is a positive operator on $C^n$. Show that if $\mathrm{trace}(T)=0$, then $T$ is the zero operator.
+4. TBA
+
 ## Week 13
 
 ### U13 (Due Tuesday, November 29)

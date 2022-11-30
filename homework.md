@@ -16,14 +16,15 @@ header-includes: |
 ### U14 (Due Tuesday, December 6)
 
 1. For each property of the trace, explain why it is true or provide a counterexample. (a) $\mathrm{trace}(ST)=\mathrm{trace}(S)\mathrm{trace}(T)$; (b) $\mathrm{trace}(\alpha T)=\alpha\mathrm{trace}(T)$; (c) $\mathrm{trace}(RST)=\mathrm{trace}(RTS)$; (d) $\mathrm{trace}(RST)=\mathrm{trace}(TSR)$
-2. TBA
+2. For each property of the determinant, explain why it is true or provide a counterexample. (a) $\det(ST)=\det(TS)$; (b) $\det(S+T)=\det(S)+\det(T)$; (c) $\det(T^\ast)=\overline{\det(T)}; (d) $\det(\alpha T)=\alpha\det(T)$
 
 ### H14 (Due Wednesday, December 7)
 
 1. Which values of $b$ make the matrix $\begin{bmatrix}1&b\\\\b&9\end{bmatrix}$ positive?
 2. Show that if $T$ is any operator then $T^\ast T$ is positive.
 3. Suppose $T$ is a positive operator on $C^n$. Show that if $\mathrm{trace}(T)=0$, then $T$ is the zero operator.
-4. TBA
+4. Let $U$ be a proper subspace of $V$ and $P_U$  the orthogonal projection onto $U$. Show that $\det(P_U)=0$.
+5. Let $Q$ be orthonormal ($Q$ has orthonormal columns with respect to some orthonormal basis; better called unitary or isometry). Show that $\|\det(Q)\|=1$.
 
 ## Week 13
 

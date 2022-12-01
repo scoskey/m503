@@ -16,7 +16,7 @@ header-includes: |
 ### U14 (Due Tuesday, December 6)
 
 1. For each property of the trace, explain why it is true or provide a counterexample. (a) $\mathrm{trace}(ST)=\mathrm{trace}(S)\mathrm{trace}(T)$; (b) $\mathrm{trace}(\alpha T)=\alpha\mathrm{trace}(T)$; (c) $\mathrm{trace}(RST)=\mathrm{trace}(RTS)$; (d) $\mathrm{trace}(RST)=\mathrm{trace}(TSR)$
-2. For each property of the determinant, explain why it is true or provide a counterexample. (a) $\det(ST)=\det(TS)$; (b) $\det(S+T)=\det(S)+\det(T)$; (c) $\det(T^\ast)=\overline{\det(T)}; (d) $\det(\alpha T)=\alpha\det(T)$
+2. For each property of the determinant, explain why it is true or provide a counterexample. (a) $\det(ST)=\det(TS)$; (b) $\det(S+T)=\det(S)+\det(T)$; (c) $\det(T^\ast)=\overline{\det(T)}$; (d) $\det(\alpha T)=\alpha\det(T)$
 
 ### H14 (Due Wednesday, December 7)
 

@@ -11,6 +11,25 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 15
+
+### Take-home Quiz 2
+
+**Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
+
+1. Please copy the following paragraph, and sign your name below it: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
+2. Let $V,W$ be finite dimensional inner product spaces, and $T\in L(V,W)$. Assume $T^\ast T$ is invertible. Show that for any $v\in V$ and $w\in W$, $Tv$ is orthogonal to $T(T^\ast T)^{-1}T^\ast w-w$.
+3. Consider the basis of $R^3$ given by $(1,2,3),(0,2,3),(0,0,3)$. Use Gram-Schmidt to orthonormalize the basis. (You may use software to assist with evaluation, but show the steps.)
+4. Consider the matrix $A=\begin{bmatrix}2&3-3i\\\\3+3i&5\end{bmatrix}$. Find an orthonormal basis which diagonalizes $A$, and do so. (Show all the work.)
+5. Find an example of a matrix with complex entries which is symmetric but not normal, and show this is the case.
+6. Suppose $A$ is a $2\times2$ matrix with trace $3$ and determinant $5$. Show how to use this information to find the eigenvalues of $A$, and do so.
+7. Let $A=\begin{bmatrix}a&b\\\\b&d\end{bmatrix}$ be a real-valued symmetric matrix. Show that if $a\geq0$ and $\det(A)\geq0$, then $A$ is positive. [Hint: start with your work from H14#1 and make it general.]
+
+The following problems are to be completed by Math 503 students only.
+
+8. (#8) Consider the basis $1,x,x^2$ of real quadratic polynomials on $[0,1]$. Use Gram-Schmidt to orthonormalize the basis with respect to the inner product $\langle f,g\rangle=\int fg$. Then use the method of projecting to the span of an ONB to find the quadratic polynomial that best fits the function $f(x)=e^{-x}$ on $[0,1]$. (You may use software for evaluation only. You may work with decimals.)
+9. (#9) Let $T$ be a finite dimensional inner product space, and $T\in L(V)$. Show that $T^\ast T+I$ is invertible. [Hint: Argue the eigenvalues are real and positive.]
+
 ## Week 14
 
 ### U14 (Due Tuesday, December 6)

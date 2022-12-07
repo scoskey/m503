@@ -18,7 +18,7 @@ header-includes: |
 **Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
 
 1. Please copy the following paragraph, and sign your name below it: "My solutions are my own original work. I completed the exam without the use of any other person as a resource. I followed Boise State University's policies on academic integrity."
-2. Let $V,W$ be finite dimensional inner product spaces, and $T\in L(V,W)$. Assume $T^\ast T$ is invertible. Show that for any $v\in V$ and $w\in W$, $Tv$ is orthogonal to $T(T^\ast T)^{-1}T^\ast w-w$.
+2. Let $V,W$ be finite dimensional inner product spaces, and $T\in L(V,W)$. Assume $(T^\ast T)^{-1}$ exists (this is just so we can write it in the next sentence). Show that for any $v\in V$ and $w\in W$, $Tv$ is orthogonal to $T(T^\ast T)^{-1}T^\ast w-w$.
 3. Consider the basis of $R^3$ given by $(1,2,3),(0,2,3),(0,0,3)$. Use Gram-Schmidt to orthonormalize the basis. (You may use software to assist with evaluation, but show the steps.)
 4. Consider the matrix $A=\begin{bmatrix}2&3-3i\\\\3+3i&5\end{bmatrix}$. Find an orthonormal basis which diagonalizes $A$, and do so. (Show all the work.)
 5. Find an example of a matrix with complex entries which is symmetric but not normal, and show this is the case.
@@ -201,8 +201,8 @@ The following problems are to be completed by Math 503 students only.
 
 The following problems are to be completed by Math 503 students only.
 
-8. Suppose that $V$ is a vector space and $v_1,\ldots,v_n$ is a basis of $V$. Let $u$ be any vector and let $U$ be the span of the vectors $v_1-u,\ldots,v_n-u$. Show that the dimension of $U$ is at least $n-1$.
-9. Suppose that $T\in L(U,V)$ and $S\in L(V,W)$. Show that $\mathrm{rank}(ST)\leq\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$. Give an example of linear transformations $S,T$ such that $\mathrm{rank}(ST)\lt\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$.
+8. (#8) Suppose that $V$ is a vector space and $v_1,\ldots,v_n$ is a basis of $V$. Let $u$ be any vector and let $U$ be the span of the vectors $v_1-u,\ldots,v_n-u$. Show that the dimension of $U$ is at least $n-1$.
+9. (#9) Suppose that $T\in L(U,V)$ and $S\in L(V,W)$. Show that $\mathrm{rank}(ST)\leq\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$. Give an example of linear transformations $S,T$ such that $\mathrm{rank}(ST)\lt\min\set{\mathrm{rank}(S),\mathrm{rank}(T)}$.
 
 ## Week 4
 

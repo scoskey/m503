@@ -13,7 +13,7 @@ header-includes: |
 
 ## Week 15
 
-### Take-home Quiz 2
+### Take-home Quiz 3
 
 **Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
 

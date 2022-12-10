@@ -23,7 +23,7 @@ header-includes: |
 4. Consider the matrix $A=\begin{bmatrix}2&3-3i\\\\3+3i&5\end{bmatrix}$. Find an orthonormal basis which diagonalizes $A$, and do so. (Show all the work.)
 5. Find an example of a matrix with complex entries which is symmetric but not normal, and show this is the case.
 6. Suppose $A$ is a $2\times2$ matrix with trace $3$ and determinant $5$. Show how to use this information to find the eigenvalues of $A$, and do so.
-7. Let $A=\begin{bmatrix}a&b\\\\b&d\end{bmatrix}$ be a real-valued symmetric matrix. Show that if $a\geq0$ and $\det(A)\geq0$, then $A$ is positive. [Hint: start with your work from H14#1 and make it general.]
+7. Let $A=\begin{bmatrix}a&b\\\\b&d\end{bmatrix}$ be a real-valued symmetric matrix. Show that if $a>0$, $d>0$, and $\det(A)\geq0$, then $A$ is positive. [Hint: start with your work from H14#1 and make it general.]
 
 The following problems are to be completed by Math 503 students only.
 
